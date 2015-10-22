@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/mattwar/iqtoolkit</licenseUrl>
+    <projectUrl>https://github.com/mattwar/iqtoolkit</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IQToolki is a library to assis in development of QueryProviders</description>
+    <releaseNotes>JUst a packging of the latest code as of 10/21/2015.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>QueryProvider IQureyable Linq</tags>
+  </metadata>
+</package>
